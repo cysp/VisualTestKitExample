@@ -1,0 +1,3 @@
+[submodule "lib/VisualTestKit"]
+	path = lib/VisualTestKit
+	url = https://github.com/cysp/VisualTestKit.framework
